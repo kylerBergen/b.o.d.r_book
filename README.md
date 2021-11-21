@@ -1,22 +1,22 @@
-### Кайлер Берген
-# Прогулка по цифровой реальности
+### Kyler Bergen
+# Walking through digital reality
 
-Эта книга изменит твою жизнь. Даже если ты этого не хочешь
+This book will change your life. Even if you don't want it.
 
-## Содержание
+## Content
 
-* [Структура бытия](./book/struktura-bytiya.md)
-* [Структура бытия. Писатель](./book/struktura-bytiya-pisatel.md)
-* [Пересечение миров](./book/peresechenie-mirov.md)
-* [Остановка прогресса](./book/ostanovka-progressa.md)
-* [Stop car!](./book/stop-car.md)
-* [Звездный час Левиафана](./book/zvezdnyj-chas-leviafana.md)
-* [Пир безумия](./book/pir-bezumiya.md)
-* [Трусы под контролем](./book/trusy-pod-kontrolem.md)
-* [Кошелька и трусов недостаточно. Им нужен твой мозг](./book/koshelka-i-trusov-nedostatochnoyu-im-nuzhen-tvoj-mozg.md)
-* [Демократия не работает](./book/demokratiya-ne-rabotaet.md)
-* [Братство цифровой реальности](./book/bratstvo-cifrovoj-realnosti.md)
-* [С нами будут бороться](./book/s-nami-budut-borotsya.md)
-* [Главные тезисы братства](./book/glavnye-tezisy-bratstva.md)
-* [Треугольники... Они повсюду](./book/treugolniki-oni-povsyudu.md)
-* [Маховик изменений](./book/mahovik-izmenenij.md)
+* [The structure of being](./book/the-structure-of-being.md)
+* [The structure of being. The Writer](./book/the-structure-of-being-the-writer.md)
+* [The intersection of worlds](./book/the-intersection-of-worlds.md)
+* [Progress stopping](./book/progress-stopping.md)
+* ["Stop car!"](./book/stop-car.md)
+* [Leviathan's finest hour](./book/leviathans-finest-hour.md)
+* [A feast of madness](./book/a-feast-of-madness.md)
+* [Underpants under control](./book/underpants-under-control.md)
+* [A wallet and underpants are not enough. They need your brain](./book/a-wallet-and-underpants-are-not-enough-they-need-your-brain.md)
+* [Democracy doesn't work](./book/democracy-doesnt-work.md)
+* [The Brotherhood of Digital Reality](./book/the-brotherhood-of-digital-reality.md)
+* [They will fight with us](./book/they-will-fight-with-us.md)
+* [The primary theses of The Brotherhood](./book/the-primary-theses-of-the-brotherhood.md)
+* [Triangles ... they're everywhere](./book/triangles-they-are-everywhere.md)
+* [Flywheel of change](./book/flywheel-of-chang.md)
